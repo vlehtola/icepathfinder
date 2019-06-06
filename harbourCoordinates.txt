@@ -1,0 +1,24 @@
+            Lat	Long
+Baltic		57.0 19.5
+Baltic W Gotl	58.241 18.219
+Gdansk		57.210 19.981  (real: 54.352 18.646)
+Helsinki	60.1 24.95
+Hamina		60.473 27.186  (approach: 60.446 27.264)
+Hanko		59.73 23
+Kemi		65.577 24.328
+Kokkola		63.983 22.866
+Kotka		60.4 26.9      (approach: 60.2, 26.4)
+Luleå		65.5 22.4
+Oulu		65.086 25.057  (approach: 65.1596 24.4423)
+Rauma		61.173 21.265  (approach: 65.0825 25.0232)
+Riga		57.1 23.9
+Tallinn		59.52 24.7
+Turku		60.4 22.1
+Vaasa		63.283 20.608
+
+Icebreaker waypoints
+Oulu
+Lat, Long
+65,     25.12
+65.164, 25.083
+65.212, 24.500

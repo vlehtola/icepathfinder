@@ -1,0 +1,7 @@
+helmigri_20110320_0600 65.577 24.328 58.241 18.219 10 8 1
+Departure time (Year,Month,Day, UTC Hours,Minutes)
+Departure coords (Lat,Long)
+Arrival coords (Lat,Long)
+Safe_depth (meters)
+Time_steps (integer)
+gebco=0,geofence=1(def),AISmask=2
